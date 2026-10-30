@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.runtime/
+database/*.db
+database/*.db-*
+database/*.sqlite*
